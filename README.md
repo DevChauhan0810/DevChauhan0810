@@ -8,6 +8,7 @@ I am a passionate Computer Science graduate student at Northeastern University w
 
 I am sharpening my Data Structures, Algorithms and problem-solving skills while actively exploring a wide range of full-stack, backend, cloud, and machine learning technologies.---
 
+<!--
 ## 🛠️ Tech Stack
 
 **Languages:** JavaScript, C++, Python
@@ -21,8 +22,9 @@ I am sharpening my Data Structures, Algorithms and problem-solving skills while 
 **Other:** REST APIs, JWT, OAuth
 
 ---
+-->
 
-## 🛠️ Tech Stack (Icons)
+## 🛠️ Technical Skills
 
 ### **Languages**
 ![Languages](https://skillicons.dev/icons?i=cpp,python,java,js,ts,html,css)

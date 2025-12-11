@@ -25,9 +25,9 @@ I'm a passionate Computer Science graduate student with interests in
 ---
 
 ## 📚 Competitive Programming
-- LeetCode: [LetCode Profile](https://leetcode.com/u/DevChauhan_0810/)
-- Codeforces: [Codeforces Profile](https://codeforces.com/profile/dev0810)
-- CodeChef: [CodeChef Profile](https://www.codechef.com/users/dev0810)
+- LeetCode: [Dev Chauhan on LeetCode](https://leetcode.com/u/DevChauhan_0810/)
+- Codeforces: [Dev Chauhan on Codeforces](https://codeforces.com/profile/dev0810)
+- CodeChef: [Dev Chauhan on CodeChef](https://www.codechef.com/users/dev0810)
 
 ---
 

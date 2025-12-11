@@ -1,13 +1,6 @@
 <h1 align="center">Hi there, I'm Dev Chauhan 👋</h1>
 
-## 🚀 About Me
-I'm a passionate Computer Science graduate student with interests in  
-**DSA, full-stack development, cloud computing, and machine learning**.
-
-- 🎓 Pursuing MS in Computer Science  
-- 💻 Solved 500+ DSA problems  
-- 🧪 Working on projects like Graph Algorithm Visualizer, Flight Price Prediction  
-- 🌐 Built furniture rental website, Android apps, and more  
+I am a passionate Computer Science graduate student at Northeastern University with a strong background in web development, cloud technologies, and machine learning. I enjoy building scalable, efficient, and innovative solutions that solve real-world problems. My journey in tech has been driven by a continuous desire to learn and explore new technologies.
 
 ---
 

@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Dev Chauhan 👋</h1>
 
-<!--
-**DevChauhan0810/DevChauhan0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate Computer Science graduate student with interests in  
+**DSA, full-stack development, cloud computing, and machine learning**.
 
-Here are some ideas to get you started:
+- 🎓 Pursuing MS in Computer Science  
+- 💻 Solved 500+ DSA problems  
+- 🧪 Working on projects like Graph Algorithm Visualizer, Flight Price Prediction  
+- 🌐 Built furniture rental website, Android apps, and more  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+![Languages](https://skillicons.dev/icons?i=cpp,python,java,js,ts,html,css)
+
+### **Frameworks & Libraries**
+![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,redux)
+
+### **Cloud & Tools**
+![Tools](https://skillicons.dev/icons?i=git,github,aws,docker,vscode)
+
+---
+
+## 📚 Competitive Programming
+- LeetCode: [Your Profile](https://leetcode.com/)
+- Codeforces: [Your Profile](https://codeforces.com/)
+- CodeChef: [Your Profile](https://www.codechef.com/)
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/devchauhan0810/
+- GitHub: https://github.com/DevChauhan0810/

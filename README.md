@@ -6,7 +6,7 @@ I am a passionate Computer Science graduate student at Northeastern University w
 
 ## 🌱 Currently Learning
 
-I am sharpening my Data Structures, Algorithms and problem-solving skills while actively exploring a wide range of full-stack, backend, cloud, and machine learning technologies.---
+I am sharpening my Data Structures, Algorithms and problem-solving skills while actively exploring a wide range of full-stack, backend, cloud, and machine learning technologies.
 
 <!--
 ## 🛠️ Tech Stack
